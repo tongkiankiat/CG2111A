@@ -1,3 +1,5 @@
+# ALEX: Search and Rescue Robot
+
 This project focuses on developing a robot capable of obstacle and color detection using LiDAR and color sensors, simulating search and rescue operations.
 
 About Alex
